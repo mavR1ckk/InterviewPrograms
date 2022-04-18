@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class P04_SecondLargestArray {
 
 	public static void main(String[] args) {
+		
 
 		// Way 1
 		// Sort array without using Arrays.sort
